@@ -8,6 +8,7 @@ public class Namaste {
 
     @GetMapping("/namaste")
     public String namaste() {
+        System.out.println("Namaste project is running here....");
         return "Namaste, World!";
     }
 }
