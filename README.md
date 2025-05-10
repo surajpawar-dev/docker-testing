@@ -150,10 +150,6 @@ Docker Compose sets up:
 3. Make your changes
 4. Submit a pull request
 
-## License
-
-[Your License Information]
-
 ---
 
 *Created by Suraj*
